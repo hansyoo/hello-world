@@ -7,3 +7,5 @@ This repository is build step by step in the tutorial
 한글 표기에 문제가 있다...
 
 GitHub에 연결
+
+다시 보자 
